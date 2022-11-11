@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZwePP
-- 👀 I’m interested in Android Development.
+- 👀 I’m interested in Software development.
 - 🌱 I’m currently learning ICT
 - 💞️ I’m looking to collaborate on any project that can support me for my career
 - 📫 You can reach me on Facebook. https://www.facebook.com/zwe.pyi.phyo.8/
