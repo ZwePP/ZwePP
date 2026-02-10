@@ -1,5 +1,5 @@
-# About Me:
-I’m currently learning Full-stack AI development
+# Hi! My name is Zwe
+### Python Developer
 
 
 ## Socials:
