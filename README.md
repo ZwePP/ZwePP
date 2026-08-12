@@ -9,8 +9,7 @@ Hello, Welcome to my data portfolio. Here you can see my works relating to the f
 
 | Project Link | Completion Date | Tools | Project Description | 
 | --- | --- | --- | --- | 
-| Cell 1 | Cell 2 | Cell 3 | Cell 3.5 |
-| Cell 4 | Cell 5 | Cell 6 | Cell 6.5 | 
+| [Transportation Powered By EV - ASEAN Data Science Explorer 2023](https://github.com/ZwePP/ASEAN-Data-Science-Explorer-2023) | Aug 2023 | Excel, PowerBI, SAP | Data exploration and analysis on land transportation in ASEAN. |
 
 <!--
 **ZwePP/ZwePP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
