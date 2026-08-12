@@ -1,9 +1,9 @@
 ## Zwe's Portfolio 👋
 Hello, Welcome to my data portfolio. Here you can see my works relating to the field.
 ## Table of Contents
-- [Python](##python)
-- [PowerBI](##powerbi)
-- [AI Engineering](##ai-engineering)
+- [Python](#python)
+- [PowerBI](#powerbi)
+- [AI Engineering](#ai-engineering)
 ## Python
 | Project Link | Completion Date | Tools | Project Description | 
 | --- | --- | --- | --- | 
