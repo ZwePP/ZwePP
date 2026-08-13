@@ -28,7 +28,7 @@ Hello, Welcome to my data portfolio. Here you can see my works relating to the f
 ## AI Engineering
 | Project Link | Completion Date | Tools | Project Description | 
 | --- | --- | --- | --- | 
-| [Learning AI Engineering - Udemy (365 Careers) ](https://github.com/ZwePP/udemy-ai-engineer-training) | Nov 2025 | Python, Scikit-learn, Langchain, Langgraph, ChromaDB, OpenAI API, HuggingFace | Code and notes from a Udemy AI Engineer course, covering practical projects in LangChain, LangGraph, vector databases (Pinecone), speech recognition, and LLM fundamentals. Includes Jupyter notebooks and sample data used throughout the course. |
+| [STIU Bot - AI Knowledge Assistant](https://github.com/ZwePP/stiu_bot) | JAN 2026 | Python, LangChain, ChromaDB, Ollama | Built a Retrieval-Augmented Generation (RAG) chatbot to answer questions using the university handbook.Developed a semantic document retrieval pipeline using embeddings and a vector database.|
 
 <!--
 **ZwePP/ZwePP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
